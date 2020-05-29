@@ -17,6 +17,12 @@ https://skylab.rocketseat.com.br/
 
 ### Application developed with React Native:
 
+### A view of the application Challenge Project 04 - GoStack Rocketseat::
+
+<p align="center">
+  <img src="src/assets/img/view-react-native-challenge-04.png" alt="Code Challenge 04 - GoStack RocketSeat" width="400">
+</p>
+
 ### To install the application:
 
 This is a [React Native](https://reactnative.dev/) project challenge. For install this project after clone, use next steps:
