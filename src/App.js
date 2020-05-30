@@ -55,7 +55,7 @@ export default function App() {
               
               <View style={styles.techsContainer}>
                 {repository.techs.map(tech => (
-                  <Text key={tech} style={styles.tech}>
+                  <Text key={tech + Math.random(1)} style={styles.tech}>
                     {tech}
                   </Text>
                 ))}
